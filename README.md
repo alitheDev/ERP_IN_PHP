@@ -1,7 +1,7 @@
 # ERP_IN_PHP
 An simple yet purposeful ERP / Management system
 
-➡ A simple Request: Plz Star(⭐) this repo...!!!!!!
+➡ UnZip & Enjoy.
 
 # Screenshots
 
@@ -31,3 +31,4 @@ Pass: 12345
 User: test
 
 Pass: test
+
